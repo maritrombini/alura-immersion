@@ -1,0 +1,28 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Black Sabbath",
+      "genre": "Heavy Metal",
+      "urlImg": "https://m.media-amazon.com/images/I/714KHDRE69S._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Motorhead",
+      "genre": "Rock",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/pt/1/10/Overkill1979.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Exodus",
+      "genre": "Trash Metal",
+      "urlImg": "https://imageswscdn.wslojas.com.br/files/25539/MED_PROD_309855646731.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Iron Maiden",
+      "genre": "Heavy Metal",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/pt/1/1c/Iron_Maiden_-_Powerslave.jpg"
+    }
+  ]
+}
